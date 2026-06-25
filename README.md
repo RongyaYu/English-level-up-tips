@@ -1,3 +1,14 @@
+
+突然发现GitHub上5万多🌟的英语大神
+跟我推荐的学习方法一模一样！！
+
+他甚至还手把手教学了如何搭AI学习工作流、如何喂Prompt。我亲测了一下，结合我文章中提到的方法，语言这一关暑假必须给过了！
+
+原文：github.com/byoungd/Englis…
+
+
+
+
 [`简体中文`](docs/README.md) | [`English`](docs/en/README.md)
 
 # 人生进阶指南
